@@ -36,7 +36,7 @@ class CustomUserLocationAnnotationView: MGLUserLocationAnnotationView {
             frame = CGRect(x: 0, y: 0, width: size, height: size)
             return setNeedsLayout()
         }
-        // This method can be called many times a second, so be careful to keep it lightweight.
+        // Check whether the user's location is a valid CLLocationCoordinate2D. This can be called many times a second, so be careful to keep it lightweight.
         if CLLocationCoordinate2DIsValid(self.userLocation!.coordinate) {
             setupLayers()
             updateHeading()

@@ -56,9 +56,8 @@
 		64CF97101DF224E400C3C27B /* SourceCustomVectorExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64CF970F1DF224E400C3C27B /* SourceCustomVectorExample.swift */; };
 		64CF97121DF224F600C3C27B /* SourceCustomRasterExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64CF97111DF224F600C3C27B /* SourceCustomRasterExample.swift */; };
 		64CF97171DF2251500C3C27B /* SourceCustomRasterExample.m in Sources */ = {isa = PBXBuildFile; fileRef = 64CF97161DF2251500C3C27B /* SourceCustomRasterExample.m */; };
-		64CF97181DF2251500C3C27B /* SourceCustomRasterExample.m in Sources */ = {isa = PBXBuildFile; fileRef = 64CF97161DF2251500C3C27B /* SourceCustomRasterExample.m */; };
 		6C8E5F701E0217B000FA086C /* UserLocationAnnotationExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C8E5F6F1E0217AF00FA086C /* UserLocationAnnotationExample.swift */; };
-		6C8E5F771E0218DE00FA086C /* UserLocationAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C8E5F761E0218DE00FA086C /* UserLocationAnnotation.m */; };
+		6C8E5F771E0218DE00FA086C /* UserLocationAnnotationExample.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C8E5F761E0218DE00FA086C /* UserLocationAnnotationExample.m */; };
 		960A21611D344F9F00BB348B /* DraggableAnnotationViewExample.m in Sources */ = {isa = PBXBuildFile; fileRef = 960A21601D344F9F00BB348B /* DraggableAnnotationViewExample.m */; };
 		96115A681CAD4E1C000963B8 /* OfflinePackExample.m in Sources */ = {isa = PBXBuildFile; fileRef = 96115A671CAD4E1C000963B8 /* OfflinePackExample.m */; };
 		961962911C581700002D3DAB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 961962901C581700002D3DAB /* main.m */; };
@@ -91,7 +90,7 @@
 		96A2A1D21C8CA74B0059441E /* CustomCalloutView.m in Sources */ = {isa = PBXBuildFile; fileRef = 96A2A1D11C8CA74B0059441E /* CustomCalloutView.m */; };
 		96D431FC1C84B4F7007D09D1 /* DrawingACustomMarkerExample.m in Sources */ = {isa = PBXBuildFile; fileRef = 96D431FB1C84B4F7007D09D1 /* DrawingACustomMarkerExample.m */; };
 		96D432061C84B9CF007D09D1 /* pisavector.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96D432051C84B9CF007D09D1 /* pisavector.xcassets */; };
-		BBD05676206B24335DEA52C4 /* Pods_ExamplesUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7692D1D792EB3849E8754E6B /* Pods_ExamplesUITests.framework */; };
+		BBD05676206B24335DEA52C4 /* (null) in Frameworks */ = {isa = PBXBuildFile; };
 		DD5939E41E6639BA0009BEB2 /* ClusteringExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5939E31E6639BA0009BEB2 /* ClusteringExample.swift */; };
 		DD5939E61E6778480009BEB2 /* clustering.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD5939E51E6778480009BEB2 /* clustering.xcassets */; };
 		DDF943291E5DE63300545D0F /* ClusteringExample.m in Sources */ = {isa = PBXBuildFile; fileRef = DDF943281E5DE63300545D0F /* ClusteringExample.m */; };
@@ -139,7 +138,6 @@
 		07C138C51E72216D00D6F678 /* DDSCircleLayerExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDSCircleLayerExample.h; sourceTree = "<group>"; };
 		07C138C61E72216E00D6F678 /* DDSCircleLayerExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDSCircleLayerExample.m; sourceTree = "<group>"; };
 		07F53B841E00D02100B58DB3 /* AnnotationViewMultipleExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnnotationViewMultipleExample.m; sourceTree = "<group>"; };
-		07F53B861E00D08600B58DB3 /* AnnotationViewMultipleExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnnotationViewMultipleExample.h; sourceTree = "<group>"; };
 		0A4917D6B62E749D739044A4 /* Pods-ExamplesUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExamplesUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ExamplesUITests/Pods-ExamplesUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		29A0D7C8DCD539DCA5DA1BAC /* Pods-Examples.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Examples.release.xcconfig"; path = "Pods/Target Support Files/Pods-Examples/Pods-Examples.release.xcconfig"; sourceTree = "<group>"; };
 		3E3BFAD81E81D7A300D0BEA1 /* DDSLayerSelectionExample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DDSLayerSelectionExample.swift; sourceTree = "<group>"; };
@@ -196,8 +194,8 @@
 		64CF97161DF2251500C3C27B /* SourceCustomRasterExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SourceCustomRasterExample.m; sourceTree = "<group>"; };
 		64CF97191DF2252C00C3C27B /* SourceCustomRasterExample.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SourceCustomRasterExample.h; sourceTree = "<group>"; };
 		6C8E5F6F1E0217AF00FA086C /* UserLocationAnnotationExample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserLocationAnnotationExample.swift; sourceTree = "<group>"; };
-		6C8E5F751E0218DE00FA086C /* UserLocationAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserLocationAnnotation.h; sourceTree = "<group>"; };
-		6C8E5F761E0218DE00FA086C /* UserLocationAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserLocationAnnotation.m; sourceTree = "<group>"; };
+		6C8E5F751E0218DE00FA086C /* UserLocationAnnotationExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserLocationAnnotationExample.h; sourceTree = "<group>"; };
+		6C8E5F761E0218DE00FA086C /* UserLocationAnnotationExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserLocationAnnotationExample.m; sourceTree = "<group>"; };
 		960A215F1D344F9F00BB348B /* DraggableAnnotationViewExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DraggableAnnotationViewExample.h; sourceTree = "<group>"; };
 		960A21601D344F9F00BB348B /* DraggableAnnotationViewExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DraggableAnnotationViewExample.m; sourceTree = "<group>"; };
 		96115A661CAD4E1C000963B8 /* OfflinePackExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = OfflinePackExample.h; path = Examples/ObjectiveC/OfflinePackExample.h; sourceTree = SOURCE_ROOT; };
@@ -293,7 +291,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BBD05676206B24335DEA52C4 /* Pods_ExamplesUITests.framework in Frameworks */,
+				BBD05676206B24335DEA52C4 /* (null) in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -336,7 +334,7 @@
 				9691AAA61C5AAD8F006A58C6 /* SimpleMapViewExample.m */,
 				64CF970B1DF224C500C3C27B /* SourceCustomVectorExample.m */,
 				64CF97161DF2251500C3C27B /* SourceCustomRasterExample.m */,
-				6C8E5F761E0218DE00FA086C /* UserLocationAnnotation.m */,
+				6C8E5F761E0218DE00FA086C /* UserLocationAnnotationExample.m */,
 				969E7FDC1D25C31700663F84 /* UserTrackingModesExample.m */,
 			);
 			name = "Objective-C";
@@ -378,8 +376,8 @@
 				3EBCD7141DC28240001E342F /* SimpleMapViewExample.swift */,
 				64CF970F1DF224E400C3C27B /* SourceCustomVectorExample.swift */,
 				64CF97111DF224F600C3C27B /* SourceCustomRasterExample.swift */,
-				3EBCD7151DC28240001E342F /* UserTrackingModesExample.swift */,
 				6C8E5F6F1E0217AF00FA086C /* UserLocationAnnotationExample.swift */,
+				3EBCD7151DC28240001E342F /* UserTrackingModesExample.swift */,
 			);
 			name = Swift;
 			path = ../Swift;
@@ -474,7 +472,6 @@
 		9682472D1C5C226D00494AB8 /* Headers */ = {
 			isa = PBXGroup;
 			children = (
-				6C8E5F751E0218DE00FA086C /* UserLocationAnnotation.h */,
 				962B450D1D1C8520007B7454 /* AnnotationViewExample.h */,
 				968247111C5C0F0F00494AB8 /* CalloutDelegateUsageExample.h */,
 				968247251C5C1DC700494AB8 /* CameraAnimationExample.h */,
@@ -506,6 +503,7 @@
 				9691AAA51C5AAD8F006A58C6 /* SimpleMapViewExample.h */,
 				64CF970E1DF224D400C3C27B /* SourceCustomVectorExample.h */,
 				64CF97191DF2252C00C3C27B /* SourceCustomRasterExample.h */,
+				6C8E5F751E0218DE00FA086C /* UserLocationAnnotationExample.h */,
 				969E7FDB1D25C31700663F84 /* UserTrackingModesExample.h */,
 			);
 			name = Headers;
@@ -529,7 +527,6 @@
 				03CC5D45DBD04AB716469E7B /* Pods-Examples.debug.xcconfig */,
 				29A0D7C8DCD539DCA5DA1BAC /* Pods-Examples.release.xcconfig */,
 				589ABF8859560819F8B431C7 /* Pods-ExamplesTests.debug.xcconfig */,
-				7556D44879C1E2866B0355B8 /* Pods-ExamplesTests.release.xcconfig */,
 				0A4917D6B62E749D739044A4 /* Pods-ExamplesUITests.debug.xcconfig */,
 				E0520BEE090DE0364897BAF3 /* Pods-ExamplesUITests.release.xcconfig */,
 			);
@@ -541,7 +538,6 @@
 			children = (
 				9EC12D8F1A97963D68BFA871 /* Pods_Examples.framework */,
 				F8EE2FB6BE39BB48832DA94C /* Pods_ExamplesTests.framework */,
-				7692D1D792EB3849E8754E6B /* Pods_ExamplesUITests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -624,9 +620,9 @@
 				TargetAttributes = {
 					9619628B1C581700002D3DAB = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = U8B2JGE4C6;
+						DevelopmentTeam = GJZR2MEM28;
 						LastSwiftMigration = 0810;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 					};
 					961962A41C581700002D3DAB = {
 						CreatedOnToolsVersion = 7.3;
@@ -898,7 +894,6 @@
 				3E3BFAD91E81D7A300D0BEA1 /* DDSLayerSelectionExample.swift in Sources */,
 				3EBCD7181DC28240001E342F /* CameraAnimationExample.swift in Sources */,
 				9691AA941C5AA702006A58C6 /* Examples.m in Sources */,
-				9682472C1C5C20F900494AB8 /* PointConversionExample2.3.swift in Sources */,
 				6C8E5F701E0217B000FA086C /* UserLocationAnnotationExample.swift in Sources */,
 				3EBCD7201DC28240001E342F /* DraggableAnnotationViewExample.swift in Sources */,
 				3EBCD7281DC28240001E342F /* SimpleMapViewExample.swift in Sources */,
@@ -917,7 +912,7 @@
 				3EBCD7171DC28240001E342F /* CalloutDelegateUsageExample.swift in Sources */,
 				64BBDAFD1DF24DEB00BB705D /* RuntimeMultipleAnnotationsExample.m in Sources */,
 				646B62AE1DEF7155000AA523 /* RuntimeAddLineExample.swift in Sources */,
-				6C8E5F771E0218DE00FA086C /* UserLocationAnnotation.m in Sources */,
+				6C8E5F771E0218DE00FA086C /* UserLocationAnnotationExample.m in Sources */,
 				3EBCD71F1DC28240001E342F /* DefaultStylesExample.swift in Sources */,
 				DD5939E41E6639BA0009BEB2 /* ClusteringExample.swift in Sources */,
 				9682471A1C5C115000494AB8 /* DrawingAGeoJSONLineExample.m in Sources */,
@@ -1125,7 +1120,6 @@
 		};
 		961962BE1C581700002D3DAB /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7556D44879C1E2866B0355B8 /* Pods-ExamplesTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				DEVELOPMENT_TEAM = GJZR2MEM28;

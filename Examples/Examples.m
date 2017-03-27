@@ -44,8 +44,8 @@
         MBXExampleSimpleMapView,
         MBXExampleSourceCustomRaster,
         MBXExampleSourceCustomVector,
-        MBXExampleUserTrackingModes,
         MBXExampleUserLocationAnnotation,
+        MBXExampleUserTrackingModes,
     ]];
 
     NSMutableArray *meh = [[NSMutableArray alloc] init];
