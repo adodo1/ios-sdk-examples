@@ -46,6 +46,7 @@ extern NSString *const MBXExampleSimpleMapView;
 extern NSString *const MBXExampleSourceCustomRaster;
 extern NSString *const MBXExampleSourceCustomVector;
 extern NSString *const MBXExampleUserTrackingModes;
+extern NSString *const MBXExampleUserLocationAnnotation;
 
 @interface Examples : NSObject
 
